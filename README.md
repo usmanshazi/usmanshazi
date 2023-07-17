@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Usman Shahzad</h1>
 <h3 align="center">A proactive BSc Computer Science student at York University</h3>
 
-<img align=“right” alt=“coding” width=“300” src="3242257.png">
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
