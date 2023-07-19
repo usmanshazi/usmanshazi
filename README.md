@@ -1,4 +1,6 @@
-<h1 align="center">Hi 👋, I'm Usman Shahzad</h1>
+<br>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=&size=30&pause=5000&color=17B3F7&center=true&vCenter=true&repeat=false&width=500&lines=ello!+This+is+Usman+Shahzad" alt="Typing SVG" /></a>
+<hr>
 <h3 align="center">A proactive BSc Computer Science student at York University</h3>
 
 
